@@ -1,6 +1,4 @@
-console.log("hello")
+console.log("bye")
 
 // npm install 
 // npm run serve 
-// add the localhost link/index.js to your webflow footer 
-// happy coding
