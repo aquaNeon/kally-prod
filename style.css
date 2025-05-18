@@ -1,0 +1,12 @@
+/* CSS Keyframe Animation */
+@keyframes translateX { 
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+[data-css-marquee-list] {
+  animation: translateX 30s linear;
+  animation-iteration-count: infinite;
+  animation-play-state: paused;
+}

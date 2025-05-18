@@ -1,0 +1,9 @@
+
+  @media (pointer: fine) {
+    .cursor_mask{
+      mask-image: url(https://cdn.prod.website-files.com/676e63344e9a2e810a2a4ef0/67a0e650405c75c6f9d47371_circle-shape.svg);    
+      mask-repeat: no-repeat;    
+      mask-size: 20rem;
+      position: absolute;
+  }
+  }
